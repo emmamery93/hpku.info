@@ -808,4 +808,8 @@ div.a2a_full_footer {display:none;}
 }
 .adsbygoogle{margin:20px 0}
 .clear::after{display:block;clear:both;content:""}
-
+.container.clear {
+    margin-bottom: 20px;
+    clear: both;
+    display: table;
+}
