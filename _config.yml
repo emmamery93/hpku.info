@@ -20,13 +20,6 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Anto:
-      name:           Mery 
-      site:           https://hpku.info
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Emma, the author of Hpku.info, Blog seputar smartphone "
-      email:          emmamery93@gmail.com 
-      
     Mery:
       name:           Mery 
       site:           https://hpku.info
