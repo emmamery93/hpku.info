@@ -6,11 +6,11 @@ favicon: 'assets/images/favicon.ico'
 url: "https://hpku.info"
 baseurl: ''
 disqus: 'hpkuinfo'
-email: 'ytube1897@gmail.com'
+email: 'emmamery93@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
-permalink: /:title.html
+permalink: /:title
 
 # Plugins
 plugins: 
