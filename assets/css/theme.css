@@ -807,3 +807,5 @@ div.a2a_full_footer {display:none;}
     background: #fff;
 }
 .adsbygoogle{margin:20px 0}
+.clear::after{display:block;clear:both;content:""}
+
