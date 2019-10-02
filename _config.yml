@@ -42,7 +42,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: anto
+      author: Mery
       avatar: /assets/images/avatar1.jpg
       
   # all pages
