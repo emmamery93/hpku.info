@@ -6,7 +6,6 @@ backend:
 media_folder: "assets/images/"
 public_folder: "/assets/images"
 
-publish_mode: editorial_workflow
 collections:
   - name: "post"
     label: "Artikel"
