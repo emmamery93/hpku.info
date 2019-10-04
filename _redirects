@@ -1,3 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
 https://hpku.netlify.com/* https://hpku.info/:splat 301!
 http://hpku.info/* https://hpku.info/:splat 301!
+http://master-hpku.netlify.com/* https://hpku.info/:splat 301!
+https://master-hpku.netlify.com/* https://hpku.info/:splat 301!
