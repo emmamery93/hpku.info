@@ -31,12 +31,21 @@ compress_html:
 authors:
     Mery:
       name:           Mery
-      site:           https://duniaselebriti.com/
+      site:           https://hpku.info/
       avatar:         /assets/images/avatar1.png
       bio:            "Hi selamat datang di web aku ya, semoga betah :) "
       email:          emmamery93@gmail.com 
       twitter:        https://twitter.com
       facebook:       https://facebook.com/mmomery
+    Anto:
+      name:           Mery
+      site:           https://hpku.info/
+      avatar:         /assets/images/avatar1.png
+      bio:            "Hi selamat datang di web aku ya, semoga betah :) "
+      email:          emmamery93@gmail.com 
+      twitter:        https://twitter.com
+      facebook:       https://facebook.com/mmomery
+
  
 # Defaults
 defaults:
@@ -46,7 +55,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Mery
+      authors: Mery
       avatar: /assets/images/avatar1.png
       
   # all pages
