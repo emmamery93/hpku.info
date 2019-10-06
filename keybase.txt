@@ -4,7 +4,7 @@ https://keybase.io/mmomery
 
 I hereby claim:
 
-  * I am an admin of https://duniaselebriti.com
+  * I am an admin of https://hpku.info
   * I am mmomery (https://keybase.io/mmomery) on keybase.
   * I have a public key ASCbwjMObH_vxQfzK6jRlnx1Qys14oCJzPra4AwCgxwXvAo
 
@@ -20,14 +20,14 @@ To do so, I am signing this object:
       "username": "mmomery"
     },
     "merkle_root": {
-      "ctime": 1570357561,
-      "hash": "abd47cb330ac89dbfe75ba7fa807324c4d2aa41a784cda03395601a3e699568ec2e9ea1040488ad7f4c75552616c7f44815a75b81ba6a929232af2c3c881a15a",
-      "hash_meta": "c286a0ead9b73d702f89e119c75ed6ea7c41e574b6ea7eb909acb254dd60c15c",
-      "seqno": 7882856
+      "ctime": 1570357908,
+      "hash": "089d4d3db18b045942dd58ce8e4b395c97fb6c5da4ea23d60ae3f72c1b7f5d715ae5be55bd3b3ffd01504fbb3e94d7441e7a76e993a59bc62ee2383d45d6f8ae",
+      "hash_meta": "2c5705f8ad45a9a8aaf9c063c33a739f6c4b43207f5dd2a24270e5df500b731b",
+      "seqno": 7882902
     },
     "service": {
-      "entropy": "TaQmy+DcwcB9YcSvNZ47ADkq",
-      "hostname": "duniaselebriti.com",
+      "entropy": "LHS8Yf96uLSshV8nWyQxdwvL",
+      "hostname": "hpku.info",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -37,16 +37,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.5.0"
   },
-  "ctime": 1570357575,
+  "ctime": 1570357926,
   "expire_in": 504576000,
-  "prev": "4aa39af262abaa0febdc8757c66793fbe73898739491e96b19469cb697707089",
-  "seqno": 8,
+  "prev": "3439bcd31c5a9e414462d3bf3fc33f2a833229990d644810aaf0b0ec50e8d41c",
+  "seqno": 11,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm8IzDmx/78UH8yuo0ZZ8dUMrNeKAicz62uAMAoMcF7wKp3BheWxvYWTESpcCCMQgSqOa8mKrqg/r3IdXxmeT++c4mHOUkelrGUactpdwcInEICawGykLq4QipjOqq8UdvF7wsZWi4JklXl2RAvBgmsGvAgHCo3NpZ8RAAClb6Bs/DjDC3dS9tE+FrjoV/0m29+aqIe1gSDoF1OdBFRFlZa8lsZU3vk0h9Vg/S2omIc8Yx71i1Dxfi+F0DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBxxsqXgSQNdL8SJzFpUjNfIibAP/R5oEnwVfBk9U7MVo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm8IzDmx/78UH8yuo0ZZ8dUMrNeKAicz62uAMAoMcF7wKp3BheWxvYWTESpcCC8QgNDm80xxankFEYtO/P8M/KoMyKZkNZEgQqvCw7FDo1BzEIFIYFTFyotH/vgiMdcAoUuqcvKNGgRYWaqYYnTveqwKmAgHCo3NpZ8RAE7c7LVVLboXkQ3ozouKvy027Iqn2vmtztJAyzP6rTmRdMcRsrNQo/ptbLV/JixytW7mZe7qKLI0yTnTnZICkB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM+LCT0TT+PbPpqq/wW6KHZyiuNhHQrsczD817lj7+m8o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
