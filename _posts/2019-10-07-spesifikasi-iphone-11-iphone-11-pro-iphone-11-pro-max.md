@@ -8,7 +8,7 @@ image: /assets/images/iphone11.png
 last_modified_date: 2019-10-07T03:25:01.011Z
 author: Mery
 tags:
-  - ''
+  - sticky
 ---
  Tahun 2020 Apple resmi merilis kembali tipe iPhone yang ga kalah canggih dengan series sebelumnya yaitu iphone 11, iPhone 11 pro dan iPhone 11 pro Max yang di bandrol dengan harga termurah 699 dollar (Rp 9,8 Juta) untuk iphone 11, 999 dollar (Rp. 11 juta) untuk iPhone 11 pro dan 1.099 dollar (Rp 15,5 juta) untuk iPhone 11 Pro Max. ya, untuk series ini sudah tidak ada lagi penamaan dengan angka romawi untuk iPhone
 
